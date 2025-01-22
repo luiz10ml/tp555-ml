@@ -1,6 +1,7 @@
 # TP555 - Inteligência Artificial e Machine Learning
 
 Repositório contendo o material da disciplina "Inteligência Artificial e Machine Learning".
+Os materiais de aula e os arquivos de exemplos foram desenvolvidos pelo professor Dr. Felipe Augusto Pereira de Figueiredo, que os disponibilizou gentilmente para nossas aulas.
 
 ## Material das aulas
 
@@ -38,6 +39,6 @@ O material das aulas pode ser encontrado na pasta **slides** e pode ser acessado
 
 <img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
 
-Felipe Augusto Pereira de Figueiredo
+Luiz Augusto Melo Pereira
 
-felipe.figueiredo@inatel.br
+luiz.melo@inatel.br
